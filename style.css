@@ -1,0 +1,55 @@
+/* https://tg.me/zhavlon_kh */
+
+h3 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#computers {
+   color: aqua;
+}
+
+#subjects {
+    color: aquamarine;
+}
+
+#cars {
+    color: bisque;
+}
+
+.bigger {
+    font-size: 30px;
+}
+
+p[onclick] {
+    color: cyan;
+}
+
+h1:hover {
+    color: blue;
+}
+
+#hello p {
+    color: blueviolet;
+}
+
+div.bigger{
+    border: 1px solid black;
+}
+
+.mygroup > ul{
+    border: 2px solid red;
+}
+
+.mygroup ul:nth-child(){
+    box-shadow: 5px 5px 5px gray;
+}
+
+tr:nth-child(odd){
+    background-color: lightgrey;
+    
+}
+
+td{
+    border: 1px solid  black;
+}
